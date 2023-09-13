@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/your-profile-image.png" alt="RAGHV KUMAR JHA" width="200" height="200">
+  <img src="https://your-image-url.com/your-animated-gif.gif" alt="RAGHAV KUMAR JHA" width="200" height="200">
 </p>
 
 <h1 align="center">Hello, I'm Your RAGHAV! 👋</h1>
@@ -21,9 +21,11 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently working on Frontend <br>
-  🌱 I’m currently learning cyber security <br>
-  💬 Ask me about react native <br>
+  🔭 I’m currently working on [Current Project or Focus]<br>
+  🌱 I’m currently learning [Something You're Learning]<br>
+  💬 Ask me about [Topics You're Knowledgeable About]<br>
+  😄 Pronouns: [Your Pronouns, e.g., He/Him]<br>
+  ⚡ Fun fact: [Interesting Fun Fact About Yourself]<br>
 </p>
 
 <h2 align="center">My Projects</h2>
