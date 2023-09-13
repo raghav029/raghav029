@@ -1,93 +1,104 @@
+<!-- Introduction Section -->
 <p align="center">
-  <img src="https://your-image-url.com/your-animated-gif.gif" alt="RAGHAV KUMAR JHA" width="200" height="200">
+  <img src="https://your-image-url.com/your-animated-gif.gif" alt="Raghav Kumar Jha" width="200" height="200">
 </p>
 
-<h1 align="center">Hello, I'm Your RAGHAV! 👋</h1>
+# Raghav Kumar Jha
 
-<p align="center">
-  I'm a passionate [Your Profession/Interest] with [X] years of experience. I enjoy [Some Hobbies or Interests] and love [Something Unique About You].
-</p>
+## Information Science and Engineering Student
 
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Me-ff69b4" alt="Email Me"></a>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YourTwitterProfile"><img src="https://img.shields.io/badge/Twitter-Follow-1da1f2" alt="Twitter"></a>
-</p>
+Bengaluru, Karnataka, India • 📞 766-747-2706 • 📧 jraghavkumar029@gmail.com
 
-<h2 align="center">About Me</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raghav-kumar-jha-81281a209)
 
-<p align="center">
-  I'm a [Your Profession/Interest] with a passion for [Specific Interests or Skills]. I've been in the field for [X] years and have worked on [Number] projects, including [Project Names].
-</p>
+---
 
-<p align="center">
-  🔭 I’m currently working on [Current Project or Focus]<br>
-  🌱 I’m currently learning [Something You're Learning]<br>
-  💬 Ask me about [Topics You're Knowledgeable About]<br>
-  😄 Pronouns: [Your Pronouns, e.g., He/Him]<br>
-  ⚡ Fun fact: [Interesting Fun Fact About Yourself]<br>
-</p>
+<!-- Summary Section -->
+## Summary
 
-<h2 align="center">My Projects</h2>
+Motivated Information Science and Engineering student with a strong interest in finance and technology. Proficient in web and mobile app development, cybersecurity, and ethical hacking. Seeking opportunities to leverage technical skills and problem-solving abilities to contribute effectively to Goldman Sachs.
 
-<p align="center">
-  Here are some of the projects I'm proud of:
-</p>
+---
 
-<p align="center">
-  <a href="Link to Project 1"><b>Project 1</b></a>: A brief description of the project.
-</p>
+<!-- Experience Section -->
+## Experience
 
-<p align="center">
-  <a href="Link to Project 2"><b>Project 2</b></a>: A brief description of the project.
-</p>
+- **Project Manager** at **DELOAI PRIVATE LIMITED**
+  (Aug 2023 - Present, 2 months)
 
-<p align="center">
-  <a href="Link to Project 3"><b>Project 3</b></a>: A brief description of the project.
-</p>
+- **Project Intern** at **Innovation Centre BMSIT&M**
+  (Jun 2023 - Present, 4 months)
 
-<h2 align="center">Skills</h2>
+- **Summer Intern** at **Abhaya Secure**
+  (Feb 2023 - Jul 2023, 6 months)
 
-<p align="center">
-  Here are some of the skills and tools I'm proficient in:
-</p>
+---
 
-<p align="center">
-  <b>Languages:</b> [List of Languages]<br>
-  <b>Technologies & Tools:</b> [List of Tools and Technologies]<br>
-</p>
+<!-- Education Section -->
+## Education
 
-<h2 align="center">Connect with Me</h2>
+- **B.Tech in Information Technology**
+  BMS Institute of Technology and Management, Bangalore
+  (Dec 2021 - Apr 2025)
 
-<p align="center">
-  Feel free to connect with me on various platforms:
-</p>
+- **Senior Secondary**
+  Marwari Plus Two High School, Ranchi
+  (2018 - 2020)
 
-<p align="center">
-  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-Follow-181717" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YourTwitterProfile"><img src="https://img.shields.io/badge/Twitter-Follow-1da1f2" alt="Twitter"></a>
-  <a href="https://www.yourwebsite.com"><img src="https://img.shields.io/badge/Website-Visit-brightgreen" alt="Website"></a>
-</p>
+- **Secondary**
+  GD DAV Public School, B. Deoghar
+  (2018)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark" alt="Top Languages">
-</p>
+<!-- Technical Skills Section -->
+## Technical Skills
 
-<h2 align="center">Support Me</h2>
+- **Web Development:** React Js, Next Js, WordPress
 
-<p align="center">
-  If you find my work helpful, consider buying me a coffee to keep me fueled:
-</p>
+- **Mobile App Development:** React Native, Flutter
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/YourUsername"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-FFDD00" alt="Buy Me a Coffee"></a>
-</p>
+- **Security:** Burp Suite, Penetration Testing, Ethical Hacking
 
-<p align="center">
-  Thanks for stopping by! 😊
-</p>
+---
+
+<!-- Finance-Related Skills Section -->
+## Finance-Related Skills
+
+- **Finance Basics:** Understanding of financial markets, investment principles, and risk management
+
+- **Data Analysis:** Proficient in data analysis tools and techniques
+
+- **Mathematics:** Strong mathematical and analytical skills
+
+---
+
+<!-- Soft Skills Section -->
+## Soft Skills
+
+Leadership, Public Speaking, Teamwork, Problem Solving
+
+---
+
+<!-- Honors & Awards Section -->
+## Honors & Awards
+
+- **2nd prize** in 24 hrs National Level Cyber Security Hackathon - IEEE BMSCE (Jul 2023)
+
+- **3rd prize** in National Startup Reverse Pitch Fest - BMSIT (May 2023)
+
+- **PBL Runner-up 2022 - BMSIT** (Dec 2022)
+
+- **1st prize** in 24 Hrs National Level Web Dev - Ctf Hackathon - IEEE BMSCE (Aug 2023)
+
+---
+
+<!-- Footer Section -->
+## Connect with Me
+
+Feel free to connect with me on LinkedIn or reach out via email.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raghav-kumar-jha-81281a209)
+📧 [Email](mailto:jraghavkumar029@gmail.com)
+
+Thanks for stopping by! 😊
