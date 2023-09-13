@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://your-image-url.com/your-profile-image.png" alt="Your Name" width="200" height="200">
+  <img src="https://your-image-url.com/your-profile-image.png" alt="RAGHV KUMAR JHA" width="200" height="200">
 </p>
 
-<h1 align="center">Hello, I'm Your Name! 👋</h1>
+<h1 align="center">Hello, I'm Your RAGHAV! 👋</h1>
 
 <p align="center">
   I'm a passionate [Your Profession/Interest] with [X] years of experience. I enjoy [Some Hobbies or Interests] and love [Something Unique About You].
