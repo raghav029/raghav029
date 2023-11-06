@@ -7,7 +7,7 @@
 
 ## Information Science and Engineering Student
 
-Bengaluru, Karnataka, India • 📞 766-747-2706 • 📧 jraghavkumar029@gmail.com
+Bengaluru, Karnataka, India  • 📧 jraghavkumar029@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raghav-kumar-jha-81281a209)
 
