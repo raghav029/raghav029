@@ -1,104 +1,106 @@
-<!-- Introduction Section -->
-<p align="center">
-  <img src="https://your-image-url.com/your-animated-gif.gif" alt="Raghav Kumar Jha" width="200" height="200">
+<h1 align="center"> Hi , I'm Raghav Kumar Jha 👋 </h1>
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/Obshy86MvfcAAAAC/yo-anime.gif">
+</div>
+</br>
+</br>
+
+
+# About ME 💬 :
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DE18&random=false&width=435&lines=Self+Taught+Programmer;Web+Developer+and+Pentester;Cloud+Enthusiast" alt="Typing SVG" /></a>
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/1936.gif">
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Pentesting-Cross site Scripting XSS
+- ✨ Cloud Computing Services
+
+### - Others :
+<ul>
+  <li>👨‍💻 All of my projects are available at <a href="https://krish-gupta.xyz">Krish-gupta.xyz</li>
+  <li>📫 How to reach me 
+<a href="mailto:jraghavkumar029@gmail.com">jraghavkumar029@gmail.com</a></li>
+     <li>🔭 I’m currently working on <a href="https://raghavjha.xyz">project</li>
+</ul>
+
+
+<p></a> 
 </p>
+</br>
+</br>
+</br>
 
-# Raghav Kumar Jha
 
-## Information Science and Engineering Student
 
-Bengaluru, Karnataka, India  • 📧 jraghavkumar029@gmail.com
+# Languages & Tools 👨‍💻 🛠:
+</br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raghav-kumar-jha-81281a209)
+<p align="center">
 
----
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="47" hight="47">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/burpsuite_113238.png" alt="burp" width="47" hight="47">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/wireshark_22388.png" alt="wireshark" width="50" hight="50">
+<!-- <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/java.png" alt="java"  width="100" hight="50"> -->
+<!-- <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/digital.png" alt="digitalocean" width="90" hight="50"> -->
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/azure.png" alt="azure" width="100" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/css_button_icon_151935.png" alt="css" width="100" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/laravel_button_icon_151953.png" alt="Laravel" width="100" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/react.png" alt="reactjs" width="100" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/nodejs.png" alt="nodejs" width="100" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/wordpress.png" alt="wordpress" width="100" hight="50">
+</p>
+</br>
+</br>
+</br>
 
-<!-- Summary Section -->
-## Summary
 
-Motivated Information Science and Engineering student with a strong interest in finance and technology. Proficient in web and mobile app development, cybersecurity, and ethical hacking. Seeking opportunities to leverage technical skills and problem-solving abilities to contribute effectively to Goldman Sachs.
 
----
+# Contact Me :
 
-<!-- Experience Section -->
-## Experience
+<p>
+ </br>
 
-- **Project Manager** at **DELOAI PRIVATE LIMITED**
-  (Aug 2023 - Present, 2 months)
 
-- **Project Intern** at **Innovation Centre BMSIT&M**
-  (Jun 2023 - Present, 4 months)
+<img hight="320" width="450" align="right" alt="GIF" src="https://media1.tenor.com/m/G3Y92Lk3OyEAAAAd/eren-yeager-eren.gif">
 
-- **Summer Intern** at **Abhaya Secure**
-  (Feb 2023 - Jul 2023, 6 months)
 
----
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<!-- Education Section -->
-## Education
+<a href="mailto:jraghavkumar029@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/raghav-kumar-jha-76674r/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+ </p>
+ </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-- **B.Tech in Information Technology**
-  BMS Institute of Technology and Management, Bangalore
-  (Dec 2021 - Apr 2025)
+ <div align="center">
+  <h2>🤝 Support</h2>
+  <p><a href="https://www.buymeacoffee.com/raghav029"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raghav"/></a></p>
+  <h1>⚡️<i>Stay Positive!</i>⚡️</h1>
+</div>
 
-- **Senior Secondary**
-  Marwari Plus Two High School, Ranchi
-  (2018 - 2020)
 
-- **Secondary**
-  GD DAV Public School, B. Deoghar
-  (2018)
+   
 
----
 
-<!-- Technical Skills Section -->
-## Technical Skills
-
-- **Web Development:** React Js, Next Js, WordPress
-
-- **Mobile App Development:** React Native, Flutter
-
-- **Security:** Burp Suite, Penetration Testing, Ethical Hacking
-
----
-
-<!-- Finance-Related Skills Section -->
-## Finance-Related Skills
-
-- **Finance Basics:** Understanding of financial markets, investment principles, and risk management
-
-- **Data Analysis:** Proficient in data analysis tools and techniques
-
-- **Mathematics:** Strong mathematical and analytical skills
-
----
-
-<!-- Soft Skills Section -->
-## Soft Skills
-
-Leadership, Public Speaking, Teamwork, Problem Solving
-
----
-
-<!-- Honors & Awards Section -->
-## Honors & Awards
-
-- **2nd prize** in 24 hrs National Level Cyber Security Hackathon - IEEE BMSCE (Jul 2023)
-
-- **3rd prize** in National Startup Reverse Pitch Fest - BMSIT (May 2023)
-
-- **PBL Runner-up 2022 - BMSIT** (Dec 2022)
-
-- **1st prize** in 24 Hrs National Level Web Dev - Ctf Hackathon - IEEE BMSCE (Aug 2023)
-
----
-
-<!-- Footer Section -->
-## Connect with Me
-
-Feel free to connect with me on LinkedIn or reach out via email.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raghav-kumar-jha-81281a209)
-📧 [Email](mailto:jraghavkumar029@gmail.com)
-
-Thanks for stopping by! 😊
+*************
