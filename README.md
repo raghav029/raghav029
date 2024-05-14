@@ -19,7 +19,7 @@
 
 ### - Others :
 <ul>
-  <li>👨‍💻 All of my projects are available at <a href="https://krish-gupta.xyz">Krish-gupta.xyz</li>
+  <li>👨‍💻 All of my projects are available at <a href="https://raghavjha.xyz">raghavjha.xyz</li>
   <li>📫 How to reach me 
 <a href="mailto:jraghavkumar029@gmail.com">jraghavkumar029@gmail.com</a></li>
      <li>🔭 I’m currently working on <a href="https://raghavjha.xyz">project</li>
