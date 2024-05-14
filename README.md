@@ -94,8 +94,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
  <div align="center">
-  <h2>🤝 Support</h2>
-  <p><a href="https://www.buymeacoffee.com/raghav029"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raghav"/></a></p>
+<!--   <h2>🤝 Support</h2>
+  <p><a href="https://www.buymeacoffee.com/raghav029"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raghav"/></a></p> -->
   <h1>⚡️<i>Stay Positive!</i>⚡️</h1>
 </div>
 
