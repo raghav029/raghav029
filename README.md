@@ -8,7 +8,7 @@
 
 # About ME 💬 :
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DE18&random=false&width=435&lines=Self+Taught+Programmer;Web+Developer+and+Pentester;Cloud+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DE18&random=false&width=435&lines=Java Developer; iOS ; Flutter" alt="Typing SVG" /></a>
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/1936.gif">
 
