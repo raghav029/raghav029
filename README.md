@@ -1,106 +1,167 @@
-<h1 align="center"> Hi , I'm Raghav Kumar Jha 👋 </h1>
+<h1 align="center">Hey 👋, I'm Raghav Kumar Jha</h1>
+
+<h3 align="center">
+Software Engineer • Java • Spring Boot • Flutter • Backend • AI
+</h3>
+
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/Obshy86MvfcAAAAC/yo-anime.gif">
+  <img 
+    height="300" 
+    width="700" 
+    alt="Anime GIF" 
+    src="https://media1.tenor.com/m/Obshy86MvfcAAAAC/yo-anime.gif"
+  />
 </div>
-</br>
-</br>
 
+<br/>
 
-# About ME 💬 :
+<div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DE18&random=false&width=435&lines=Java Developer; iOS ; Flutter" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DE18&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+%7C+Spring+Boot+Developer;Flutter+%7C+Mobile+Developer;Backend+%26+System+Design;AI-assisted+Software+Engineering;Always+Learning+%F0%9F%9A%80" />
+</a>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/1936.gif">
+</div>
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Pentesting-Cross site Scripting XSS
-- ✨ Cloud Computing Services
+<br/>
 
-### - Others :
-<ul>
-  <li>👨‍💻 All of my projects are available at <a href="https://raghavjha.xyz">raghavjha.xyz</li>
-  <li>📫 How to reach me 
-<a href="mailto:jraghavkumar029@gmail.com">jraghavkumar029@gmail.com</a></li>
-     <li>🔭 I’m currently working on <a href="https://raghavjha.xyz">project</li>
-</ul>
+<img 
+align="right" 
+height="350" 
+width="400" 
+alt="Anime GIF" 
+src="https://media1.tenor.com/m/G3Y92Lk3OyEAAAAd/eren-yeager-eren.gif"
+/>
 
+## 👨‍💻 About Me
 
-<p></a> 
-</p>
-</br>
-</br>
-</br>
+I'm a **Software Engineer** passionate about building products, solving complex engineering problems and understanding systems beyond the surface.
 
+* 🚀 Building production-grade software
+* ☕ Working primarily with **Java & Spring Boot**
+* 📱 Building mobile applications with **Flutter**
+* 🏗️ Interested in **Backend Engineering & System Design**
+* 🤖 Exploring **AI-assisted Software Development**
+* 🧠 Strengthening **DSA & Computer Science fundamentals**
+* ⚡ Love optimizing code, systems and developer workflows
+* 🔥 Always trying to build something better than yesterday
 
+<br clear="right"/>
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
+---
 
-<p align="center">
+## 🛠️ Tech Stack
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="47" hight="47">
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/burpsuite_113238.png" alt="burp" width="47" hight="47">
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/wireshark_22388.png" alt="wireshark" width="50" hight="50">
-<!-- <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/java.png" alt="java"  width="100" hight="50"> -->
-<!-- <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/digital.png" alt="digitalocean" width="90" hight="50"> -->
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/azure.png" alt="azure" width="100" hight="50">
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/css_button_icon_151935.png" alt="css" width="100" hight="50">
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/laravel_button_icon_151953.png" alt="Laravel" width="100" hight="50">
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/react.png" alt="reactjs" width="100" hight="50">
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/nodejs.png" alt="nodejs" width="100" hight="50">
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/wordpress.png" alt="wordpress" width="100" hight="50">
-</p>
-</br>
-</br>
-</br>
-
-
-
-# Contact Me :
+### 💻 Languages
 
 <p>
- </br>
+  <img src="https://skillicons.dev/icons?i=java,dart,cpp,python" />
+</p>
 
+### ⚙️ Backend & Databases
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://media1.tenor.com/m/G3Y92Lk3OyEAAAAd/eren-yeager-eren.gif">
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,postgresql,redis" />
+</p>
 
+### 📱 Mobile & Frontend
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
 
-<a href="mailto:jraghavkumar029@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/raghav-kumar-jha-76674r/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
- </p>
- </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+### ☁️ Cloud & Developer Tools
 
- <div align="center">
-<!--   <h2>🤝 Support</h2>
-  <p><a href="https://www.buymeacoffee.com/raghav029"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raghav"/></a></p> -->
-  <h1>⚡️<i>Stay Positive!</i>⚡️</h1>
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,gcp,docker,git,github,vscode,idea" />
+</p>
+
+---
+
+## 🔥 What I'm Currently Focused On
+
+```text
+              ┌─────────────────────┐
+              │  Software Engineering │
+              └──────────┬──────────┘
+                         │
+              ┌──────────▼──────────┐
+              │ Java + Spring Boot  │
+              └──────────┬──────────┘
+                         │
+              ┌──────────▼──────────┐
+              │ Backend Engineering │
+              └──────────┬──────────┘
+                         │
+              ┌──────────▼──────────┐
+              │    System Design    │
+              └──────────┬──────────┘
+                         │
+              ┌──────────▼──────────┐
+              │ AI-assisted SDLC 🤖 │
+              └─────────────────────┘
+```
+
+---
+
+## 📚 Currently Learning
+
+* 🧩 Data Structures & Algorithms
+* ☕ Advanced Java
+* 🌱 Spring Boot
+* 🏗️ System Design
+* 🌐 Distributed Systems
+* 🗄️ Database Internals
+* ⚡ Backend Performance & Scalability
+* 🤖 AI & Software Engineering
+
+---
+
+## 🚀 Projects
+
+Check out my projects and experiments:
+
+<div align="center">
+
+### 🌐 [raghavjha.xyz](https://raghavjha.xyz)
+
 </div>
 
+I'm interested in building:
 
-   
+**Backend Systems • Mobile Apps • Developer Tools • AI-powered Products • Startups**
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
 
 
-*************
+</div>
