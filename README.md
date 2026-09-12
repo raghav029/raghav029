@@ -25,13 +25,13 @@ Software Engineer • Java • Spring Boot • Flutter • Backend • AI
 
 <br/>
 
-<img 
+<!-- <img 
 align="right" 
 height="350" 
 width="400" 
 alt="Anime GIF" 
 src="https://media1.tenor.com/m/G3Y92Lk3OyEAAAAd/eren-yeager-eren.gif"
-/>
+/> -->
 
 ## 👨‍💻 About Me
 
